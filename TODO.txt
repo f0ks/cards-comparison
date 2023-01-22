@@ -1,0 +1,6 @@
+TODO:
+
+	- create card component
+	- setup card data mocks (before BE setup)
+	- setup linters and code auto formatter
+	- setup tests, create basic test for card component
