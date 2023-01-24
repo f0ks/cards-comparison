@@ -1,0 +1,31 @@
+{
+  "Engine": [
+    {
+      "name": "Capacity",
+      "type": "numeric",
+      "units": "cc"
+    },
+    {
+      "name": "Horsepower",
+      "type": "numeric",
+      "units": "hp"
+    },
+    {
+      "name": "Type",
+      "type": "enum",
+      "options": ["supersport", "naked", "cruiser"]
+    },
+  ],
+  "Dimensions" : [
+    {
+      "name": "Weight",
+      "type": "numeric",
+      "units": "kg"
+    },
+    {
+      "name": "Seat Height",
+      "type": "numeric",
+      "units": "mm"
+    },
+  ]
+}
