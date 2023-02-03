@@ -20,6 +20,10 @@ export const motorbikesData = [
         value: 'naked'
       },
       {
+        name: 'seatHeight',
+        value: 780
+      },
+      {
         name: 'weight',
         value: '158'
       },
@@ -40,6 +44,11 @@ export const motorbikesData = [
       {
         name: 'type',
         value: 'naked'
+      },
+
+      {
+        name: 'seatHeight',
+        value: 810
       },
       {
         name: 'weight',

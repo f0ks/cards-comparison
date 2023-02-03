@@ -8,7 +8,8 @@ function App() {
     <div className="App">
       <h1>Sample cards:</h1>
       {motorbikesData.map((card, i) =>
-        <Card key={i} data={card} schema={schemaMotorbikes}/>)}
+        <Card key={i} data={card} schema={schemaMotorbikes}/>
+      )}
     </div>
   );
 }
